@@ -1,6 +1,7 @@
 # Executive Summary
 
-# Hardware - Hard Drives and Memory
+# Hardware
+### Hard Drives and Memory
 
 * What is the difference between latency and transfer rates in the performance of a hard drive?
 
@@ -10,13 +11,13 @@
 
 * What is the difference between 64 and 32 bit data paths?
 
-# Hardware: ALU and the Control Unit 
+### Hardware: ALU and the Control Unit 
 Explain the interaction of the control unit and ALU in the CPU 
 
-# Hardware: CPU, Input & Output 
+### Hardware: CPU, Input & Output 
 Identify how the example addresses each of the components: CPU, Input and Output 
 
-# Hardware: IEEE - Ethically Aligned Design. 
+### Hardware: IEEE - Ethically Aligned Design. 
 Explain the purpose of IEEE and the importance of ethics in device design 
 
 # Conclusion
