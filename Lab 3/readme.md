@@ -3,8 +3,8 @@ Include your summary here
 
 # Hardware -  Logic Gates and Circuits 
 
-Explain what is meant by a truth table and apply your knowledge to a NAND gate.  
-How does the NAND gate truth table compare to that of an AND gate? 
+* Explain what is meant by a truth table and apply your knowledge to a NAND gate.  
+* How does the NAND gate truth table compare to that of an AND gate? 
 
 # Data Representation - Numeric conversions
 
