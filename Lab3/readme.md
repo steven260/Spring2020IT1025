@@ -1,6 +1,6 @@
 # Executive Summary
 Include your summary here.
-These are the direction in converting the usual decimal numbers into machine language binary and hexadecimal numerals.
+These are the directions in converting the usual decimal numbers into machine language binary and hexadecimal numerals and back again.
 
 # Hardware -  Logic Gates and Circuits 
 
