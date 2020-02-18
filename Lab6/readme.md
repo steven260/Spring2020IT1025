@@ -6,9 +6,11 @@
  
  # Career Exploration
  
- * Go to the following site: Tri-c College Central and register for a student account. Once registered use one of the search options such as "Search - Intern Central," 
- take a screenshot of the listings (include your name in the upper right-hand corner in your screenshot,) 
- Name the file: CollegeCentral and upload to your lab folder. 
+ * Go to Tri-c College Central 
+ ** register for a student account. 
+ ** Once registered use one of the search options such as "Search - Intern Central," 
+ ** take a screenshot of the listings (include your name in the upper right-hand corner in your screenshot,) 
+ ** Name the file: CollegeCentral and upload to your lab folder. 
  
  * Take some time to explore the resources and report your findings. 
  
