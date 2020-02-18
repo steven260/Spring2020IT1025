@@ -1,6 +1,8 @@
  # Executive Summary
  
- # Virtualization
+ # Virtualization (Groupwork)
+ 
+ Write about your experience creating a virtual machine. Upload screenshot of the vm.
  
  # Career Exploration
  
