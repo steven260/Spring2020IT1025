@@ -1,8 +1,11 @@
 
 Executive Summary
 Hardware - Logic Gates and Circuits
+
 Upload screenshots of the Logic gates groupwork
+
 Software
+
 Explain the roles of application, utility and operating system software. Give an example of each.
 
 Explain the purpose of ERP software and provide an example.
