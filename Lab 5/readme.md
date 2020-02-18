@@ -27,4 +27,4 @@ https://www.redhat.com/en/topics/virtualization/what-is-virtualization
 
 * Explain how a network administrator could move from virtualization to cloud computing? 
  
-# Conclusion
+# Conclusion.
