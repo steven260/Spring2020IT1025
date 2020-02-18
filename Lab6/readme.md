@@ -6,7 +6,7 @@
  
  # Career Exploration
  
- * Tri-C College Central: Take some time to explore the resources and report your findings. 
+ * Tri-C College Central: Take some time to explore the resources and report your findings. Upload CollegeCentral screenshot of listings.
  
  * Go to: Bureau of Labor Statistics and continue exploring careers in IT (or your area of interest.)
   Report your findings including job title, salary and projected growth.
