@@ -7,10 +7,10 @@
  # Career Exploration
  
  * Go to Tri-c College Central 
- ** register for a student account. 
- ** Once registered use one of the search options such as "Search - Intern Central," 
- ** take a screenshot of the listings (include your name in the upper right-hand corner in your screenshot,) 
- ** Name the file: CollegeCentral and upload to your lab folder. 
+ ...a) register for a student account. 
+ ...b) Once registered use one of the search options such as "Sea ch - Intern Central," 
+ ...c) take a screenshot of the listings (include your name in the upper right-hand corner in your screenshot,) 
+ ...d) Name the file: CollegeCentral and upload to your lab folder. 
  
  * Take some time to explore the resources and report your findings. 
  
@@ -26,7 +26,7 @@ CompTIA , Cisco , CISSP or any other certification
 ## College Certificates
 * Explore the Tri-C certificates at: Tri-C IT Programs and report on a certificate of interest (short-term or post-degree.) 
 
-* Visit the site: https://www.tri-c.edu/career-services/student-career-services/experiential-learning/index.html
+* Visit the site: [Experiential Learning](https://www.tri-c.edu/career-services/student-career-services/experiential-learning/index.html) 
 Under the heading explain what you need to do to become co-op "ready" and the benefits of pursuing a co-op or internship
 
 ## Professional Membership
