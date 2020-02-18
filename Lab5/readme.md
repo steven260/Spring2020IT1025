@@ -1,5 +1,5 @@
 
-Executive Summary
+Executive Summary:
 The only explanation I can give is that the logical computing gates are symbolic images which utilize inputs and the resulting outputs depending on each of their different function. 
 
 Hardware - Logic Gates and Circuits
