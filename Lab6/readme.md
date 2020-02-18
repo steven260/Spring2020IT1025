@@ -18,7 +18,7 @@
   Report your findings including job title, salary and projected growth.
 
 ## Certifications
-*Explore a certification from those listed below and report your findings. 
+* Explore a certification from those listed below and report your findings. 
 ...These certification tests can be taken at 1/2 the cost through Tri-C vouchers. 
 
 ...CompTIA , Cisco , CISSP or any other certification
@@ -30,7 +30,7 @@
 Under the heading explain what you need to do to become co-op "ready" and the benefits of pursuing a co-op or internship
 
 ## Professional Membership
-*Pick one of the organizations listed below and report the purpose of the organization and why membership would be beneficial. 
+* Pick one of the organizations listed below and report the purpose of the organization and why membership would be beneficial. 
 ...a) Cybersecurity Club which amongst other activities prepares for: CCDC.  Read about the CCDC mission and report your findings.  The Tri-C student team won the Ohio competition and traveled to regionals in Chicago in 2017.  Please contact Dr. Keith Lyons (keith.lyons@tri-c.edu) for additional club information. 
 ...b) ACM-W: A student chapter of ACM. Please contact Professor Vinita Tiralapuram (Vinita.Tiralapuram@tri-c.edu) or Kathleen Tamerlano (Kathleen.Tamerlano@tri-c.edu) for additional information. 
 ...c) IEEE   
